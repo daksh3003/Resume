@@ -1,0 +1,22 @@
+body{
+    background-color:   beige;
+}
+hr
+{
+    background-color: wheat;
+    border-color:lightsalmon;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    height: 0px;
+    width: 8%;
+}
+h1{
+    color: lightcoral;
+}
+h2{
+    color: lightcoral;
+}
+h3  {
+    color: lightsalmon;
+}
